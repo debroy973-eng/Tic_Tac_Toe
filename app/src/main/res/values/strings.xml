@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">Tic Tac Toe</string>
+    <string name="single_player_illustration">In single player mode your opponent will be device itself.First you have to
+        select the symbol with you want to play with.The result of the game will be declared by a short message which will
+        appear in the bottom of the screen.If you want to play more,you have to press yes on the alert box.</string>
+    <string name="multiplayer_illustartion">In multiplayer mode,you need to have two player.Atfirst you have to chose
+    a player symbol with which the payer wants to play.The result will be declared by a short message which will appear
+    in the bottom of the screen.If you want to play more,you have to touch yes on the alert box.</string>
+</resources>

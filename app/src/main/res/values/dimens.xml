@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <dimen name="layout_width">44dp</dimen>
+    <dimen name="layout_height">44dp</dimen>
+    <dimen name="layout_margin">16dp</dimen>
+    <dimen name="layout_marginBottom">16dp</dimen>
+    <dimen name="textSize">24sp</dimen>
+    <dimen name="imageview_margin">8dp</dimen>
+    <dimen name="imageview_bottom_margin">8dp</dimen>
+    <dimen name="how_to_play_heading">36sp</dimen>
+    <dimen name="heading">24sp</dimen>
+    <dimen name="content">16sp</dimen>
+</resources>
